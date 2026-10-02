@@ -1,0 +1,7 @@
+Build Cycle:
+```
+cmake -S . -B build
+cmake --build build
+ctest --test-dir build --output-on-failure
+./build/binary-lab
+```
