@@ -1,3 +1,0 @@
-/home/taiveyon/dev/binary-file-inspector-and-serializer/build/CMakeFiles/binary-lab.dir
-/home/taiveyon/dev/binary-file-inspector-and-serializer/build/CMakeFiles/edit_cache.dir
-/home/taiveyon/dev/binary-file-inspector-and-serializer/build/CMakeFiles/rebuild_cache.dir
